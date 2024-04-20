@@ -3,4 +3,4 @@ Preprocessing data involves reducing noise, eliminating irrelevant information (
 
 ![](https://github.com/ritwiks9635/Preprocessing_Unstructured_Data_for_LLM_Applications/blob/main/Screenshot_20240419-105150_Chrome.jpg)
 
-![](https://learn.deeplearning.ai/accomplishments/e3f0509a-cbe6-4550-83fa-b048efbf80e8?usp=sharing)
+complete this course = https://learn.deeplearning.ai/accomplishments/e3f0509a-cbe6-4550-83fa-b048efbf80e8?usp=sharing
